@@ -116,7 +116,9 @@ return array (
   'edit' => 'تعديل',
   'delete' => 'حذف',
   'open' => 'مفتوحة',
-  'go-to-gitHub' => 'إذهب إلى GitHub',
+  'go-to-github' => 'إذهب إلى GitHub',
+  'go-to-bitbucket' => 'إذهب إلى BitBucket',
+  'go-to-gitlab' => 'إذهب إلى GitLab',
   'edit-issue' => 'تعديل المسئله',
   'this-issue-is-in-a
         sprint-that-is' => 'هذة المسئله فى سبرنت',
@@ -195,4 +197,6 @@ return array (
   'congratulations-the-product-backlog-has-been-updated-with-successfully' => 'تهانينا ! لقد تم تعديل مهام المشروع بنجاح',
   'favorited-successfully' => 'تم الاضافة الى المفضلة بنجاح',
   'unfavorited-successfully' => 'تم الحذف من المفضلة بنجاح',
+  'organization-id-required' => 'يجب أن تختار مؤسسه',
+  'organization-id-exists' => 'ال organization_id يجب ان يكون فى جدول ال organizations',
 );

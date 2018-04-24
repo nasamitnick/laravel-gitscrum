@@ -1,9 +1,15 @@
-![Laravel GitScrum](https://gitscrum.com/facebook.jpg)
+[![Project on GitScrum](https://gitscrum.com/badges/project.svg)](https://gitscrum.com)
+[![Laravel 5.4](https://img.shields.io/badge/Laravel-5.4-brightgreen.svg?style=flat-square)](http://laravel.com)
+[![Total Downloads](https://poser.pugx.org/gitscrum-community/laravel-gitscrum/downloads)](https://packagist.org/packages/gitscrum-community/laravel-gitscrum)
+[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/GitScrum-Community/laravel-gitscrum/blob/master/LICENSE.md)
+
+<hr>
+
+![Laravel GitScrum](https://site.gitscrum.com/wp-content/uploads/2018/03/facebook.png)
 
 <hr>
 <p align="center">
-Site: <b>https://www.gitscrum.com</b> | 
-Community and Issues : <b>https://www.gitscrum.com/community</b>
+Site: <b>https://www.gitscrum.com</b>
 </p>
 <hr>
 <p align="center">
@@ -24,20 +30,17 @@ Community and Issues : <b>https://www.gitscrum.com/community</b>
 
 <hr>
 
-<p align="center">
+<p align="center"> GitScrum's goal is to "Turn your IT Team into Instant Rock Stars" !!!</p>
+<br>
+<b>Telegram Group: https://t.me/joinchat/IBdvmBKNudOzLLswXGxqZQ </b>
+<br/>
 <b>Facebook Group: https://www.facebook.com/groups/gitscrum/ </b>
 </p>
 
 <hr>
 
-[![Laravel 5.4](https://img.shields.io/badge/Laravel-5.4-brightgreen.svg?style=flat-square)](http://laravel.com)
-[![Total Downloads](https://poser.pugx.org/gitscrum-community/laravel-gitscrum/downloads)](https://packagist.org/packages/gitscrum-community/laravel-gitscrum)
-[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/GitScrum-Community/laravel-gitscrum/blob/master/LICENSE.md)
+![Login GitScrum](https://i.imgur.com/eANowE2.png)
 
-<hr>
-<h4 align="center">
-How can you help? https://gitscrum.com/community/viewtopic.php?f=7&t=33&p=47#p47
-</h4>
 
 <hr>
 
@@ -45,7 +48,7 @@ How can you help? https://gitscrum.com/community/viewtopic.php?f=7&t=33&p=47#p47
 
 Laravel GitScrum is a **free application** developed in Laravel 5.4. The aim is help the developer teams to use **Git** and **Scrum** on task management of the day-to-day.
 
-Available in English, Chinese, Russian, German, Arabic, Spanish, Portuguese, Italian, French, Indonesian and Hungarian.
+Available in English, Chinese, Russian, German, Arabic, Spanish, Portuguese, Italian, French, Indonesian, Serbian, Hungarian and Vietnamese.
 
 
 Laravel GitScrum in gitter.im : [https://gitter.im/laravel-gitscrum/Lobby](https://gitter.im/laravel-gitscrum/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
@@ -68,6 +71,11 @@ GitScrum can be integrated with **Github** or **Gitlab** or **Bitbucket**.
 
 	**Features**: Progress state (e.g. to do, in progress, done or archived), issue type (e.g. Improvement, Support Request, Feedback, Customer Problem, UX, Infrastructure, Testing Task, etc...), definition of done checklist, assign labels, effort, attachments, comments, activities, team members.
 
+![GitScrum Dashboard](https://i.imgur.com/xFFSha7.png)
+
+![GitScrum Board](https://i.imgur.com/ppiYPMK.png)
+
+![GitScrum Sprint](https://i.imgur.com/ZHrhKPy.png)
 
 ## Installation
 

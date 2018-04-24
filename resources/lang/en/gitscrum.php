@@ -1,4 +1,4 @@
-<?php 
+<?php
 /**
  * Laravel Multi-Language <https://github.com/renatomarinho/laravel-multi-language>
  * Updated 2017-11-12 03:05:15 / 186 translations
@@ -69,7 +69,7 @@ return array (
   'completed' => 'Completed',
   'you-are-not-a-member-of-any-sprint' => 'You are not a member of any sprint',
   'list-sprint-backlog' => 'List Sprint Backlog',
-  'organization' => 'Organization',
+  'organization' => 'OrganizationRequest',
   'attachments' => 'Attachments',
   'closed' => 'Closed',
   'members' => 'Members',
@@ -116,7 +116,9 @@ return array (
   'edit' => 'Edit',
   'delete' => 'Delete',
   'open' => 'Open',
-  'go-to-gitHub' => 'Go to GitHub',
+  'go-to-github' => 'Go to GitHub',
+  'go-to-bitbucket' => 'Go to BitBucket',
+  'go-to-gitlab'=> 'Go to GitLab',
   'edit-issue' => 'Edit Issue',
   'this-issue-is-in-a
         sprint-that-is' => 'This issue is in a sprint that is',
@@ -195,4 +197,7 @@ return array (
   'congratulations-the-product-backlog-has-been-updated-with-successfully' => 'Congratulations! The Product Backlog has been successfully updated',
   'favorited-successfully' => 'Favorited',
   'unfavorited-successfully' => 'Unfavorited',
+  'organization-id-required' => 'you must choose an organization',
+  'organization-id-exists' => 'organization_id must exist in organizations table',
+  'you-have' => 'You have',
 );

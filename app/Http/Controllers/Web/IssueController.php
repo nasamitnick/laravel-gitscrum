@@ -19,13 +19,13 @@ class IssueController extends Controller
     {
         [$sprint,$issues] = $this->sprintWithIssues($slug);
 
-        if (!is_null($sprint) && !count($sprint)) {
+        if (!is_null($sprint) && ! $sprint) {
             return redirect()->route('sprints.index');
         }
 
         return view('issues.index')
             ->with('sprint', $sprint)
-            ->with('issues', $issues->sortBy('position')->groupBy('config_issue_effort_id'))
+            ->with('issues', $issues->sortBy('position')->groupBy('config_status_id'))
             ->with('configStatus', ConfigStatus::type('issues')->get());
     }
 
